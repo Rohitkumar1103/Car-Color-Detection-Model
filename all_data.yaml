@@ -1,0 +1,7 @@
+
+train: C:/Users/KIIT/NULL CLASS/Car color detection Model/yolo_dataset/train/images
+val: C:/Users/KIIT/NULL CLASS/Car color detection Model/yolo_dataset/val/images
+nc: 3
+names: ['color_1', 'color_2', 'color_3']
+
+
